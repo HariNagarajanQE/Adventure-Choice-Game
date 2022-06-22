@@ -33,3 +33,5 @@ while alive:
                         print('You discover an amazing treasure!')
         else:
             print("You can't go there.")
+            
+input()
